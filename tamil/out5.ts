@@ -4,4 +4,4 @@
 #EXTINF:10,
 http://sansat.net:25461/02059036842304/CanYuUaX3c8fyZx/93731
 #EXTINF:10,
-http://sansat.net:25461/02059036842304/CanYuUaX3c8fyZx/93731
+out6.ts
