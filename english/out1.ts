@@ -2,6 +2,6 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
 #EXTINF:10,
-http://eljawda.net:88/4vrdmYStvAZ8ZDJ/mo3kDPpGlv/93724
+http://eljawda.net:88/4vrdmYStvAZ8ZDJ/A0zT83sFxL/93724
 #EXTINF:10,
-http://eljawda.net:88/4vrdmYStvAZ8ZDJ/mo3kDPpGlv/93724
+http://eljawda.net:88/4vrdmYStvAZ8ZDJ/A0zT83sFxL/93724
