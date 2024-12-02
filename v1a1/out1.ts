@@ -2,6 +2,6 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
 #EXTINF:10,
-http://yesimes.oknirvana.club:8880/DAALM427/8KReshCd5U/2879
+http://suprino.xyz//PMF3J9X/BV7HG8H/450008
 #EXTINF:10,
-http://yesimes.oknirvana.club:8880/DAALM427/8KReshCd5U/2879
+http://suprino.xyz//PMF3J9X/BV7HG8H/450008
