@@ -2,6 +2,6 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
 #EXTINF:10,
-https://livetvbox.live:443//live/rajnikant/rajnikant/211.ts
+http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1371
 #EXTINF:10,
-https://livetvbox.live:443//live/rajnikant/rajnikant/211.ts
+http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/1371
