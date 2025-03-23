@@ -2,6 +2,6 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
 #EXTINF:10,
-https://livetvbox.live:443/live/rajnikant/rajnikant/380977.ts
+https://livetvbox.live:443/live/44667/44667/380977.ts
 #EXTINF:10,
-https://livetvbox.live:443/live/rajnikant/rajnikant/380977.ts
+https://livetvbox.live:443/live/44667/44667/380977.ts
