@@ -1,8 +1,7 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:4
-#EXT-X-MEDIA-SEQUENCE:256511
+#EXT-X-TARGETDURATION:3600
 #EXT-X-VERSION:3
-#EXTINF:4, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-https://livetvbox.live:443/live/rajnikant/rajnikant/9722.ts
-#EXTINF:4, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
-https://livetvbox.live:443/live/rajnikant/rajnikant/9722.ts
+#EXTINF:3600, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
+http://line.now-ott.xyz/2D6D40/23CD52/1441567
+#EXTINF:3600, FRAME-RATE=60.0, AUDIO="5.1", CODECS="avc1.640028,ec-3.1.1,mp4a.40.5",
+http://line.now-ott.xyz/2D6D40/23CD52/1441567
